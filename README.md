@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raj-p26
 - 👀 I’m interested in Rust
-- Currently cruising in my lambo that laravel gave me.
 - All repos here are part of learning progression.
-- Thinking about checking out zig and elixir.
+- Can barely quit VIM.
+- All about Rust.
